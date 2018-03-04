@@ -19,5 +19,8 @@
   "repository": {
     "type": "git",
     "url": "git://github.com/andreycruz16/appChatExpress.git"
+  },
+  "devDependencies": {
+    "jasmine": "^3.1.0"
   }
 }
