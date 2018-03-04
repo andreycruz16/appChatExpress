@@ -1,7 +1,7 @@
 {
   "name": "app-chat-express-js",
   "version": "1.0.0",
-  "description": "",
+  "description": "simple chat express application",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -13,5 +13,9 @@
   "dependencies": {
     "body-parser": "^1.18.2",
     "express": "^4.16.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/andreycruz16/appChatExpress.git"
   }
 }
